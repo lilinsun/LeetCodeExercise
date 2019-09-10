@@ -27,7 +27,7 @@ public class PalindromeNumber {
         int temp = 0;
         int tempX = x;
         while (tempX != 0) {
-            temp = temp * 10 + x % 10;
+            temp = temp * 10 + tempX % 10;
             tempX /= 10;
         }
         return temp == x;
