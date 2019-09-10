@@ -1,4 +1,4 @@
-package cn.lls.leetcodeexercise.leetcode;
+package cn.lls.leetcodeexercise.leetcode.easy;
 
 import lombok.extern.slf4j.Slf4j;
 
